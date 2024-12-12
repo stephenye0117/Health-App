@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2024-12-14 14:13:00",
+    "name": "Wide-grip barbell curl",
+    "type": "exercise"
+  },
+  {
+    "date": "2024-12-13 12:44:00",
+    "name": "Power snatch-",
+    "type": "exercise"
+  },
+  {
+    "date": "2024-12-12 5:23:00",
+    "name": "EZ-bar spider curl",
+    "type": "exercise"
+  },
+  {
+    "date": "2024-12-13 15:21:00",
+    "name": "pizza",
+    "type": "nutrition"
+  },
+  {
+    "date": "2024-12-12 13:23:00",
+    "name": "steak",
+    "type": "nutrition"
+  }
+]
+

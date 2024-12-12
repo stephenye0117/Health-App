@@ -1,0 +1,73 @@
+[
+  {
+    "name": "brisket",
+    "calories": 1312.3,
+    "serving_size_g": 453.592,
+    "fat_total_g": 82.9,
+    "fat_saturated_g": 33.2,
+    "protein_g": 132,
+    "sodium_mg": 217,
+    "potassium_mg": 781,
+    "cholesterol_mg": 487,
+    "carbohydrates_total_g": 0,
+    "fiber_g": 0,
+    "sugar_g": 0
+  },
+  {
+    "name": "fries",
+    "calories": 317.7,
+    "serving_size_g": 100,
+    "fat_total_g": 14.8,
+    "fat_saturated_g": 2.3,
+    "protein_g": 3.4,
+    "sodium_mg": 212,
+    "potassium_mg": 124,
+    "cholesterol_mg": 0,
+    "carbohydrates_total_g": 41.1,
+    "fiber_g": 3.8,
+    "sugar_g": 0.3
+  },
+  {
+    "name": "hamburger",
+    "calories": 242.5,
+    "serving_size_g": 100,
+    "fat_total_g": 11.8,
+    "fat_saturated_g": 4.7,
+    "protein_g": 15.2,
+    "sodium_mg": 349,
+    "potassium_mg": 138,
+    "cholesterol_mg": 54,
+    "carbohydrates_total_g": 17.9,
+    "fiber_g": 0,
+    "sugar_g": 0
+  },
+  {
+    "name": "pizza",
+    "calories": 262.9,
+    "serving_size_g": 100,
+    "fat_total_g": 9.8,
+    "fat_saturated_g": 4.5,
+    "protein_g": 11.4,
+    "sodium_mg": 587,
+    "potassium_mg": 217,
+    "cholesterol_mg": 16,
+    "carbohydrates_total_g": 32.9,
+    "fiber_g": 2.3,
+    "sugar_g": 3.6
+  },
+  {
+    "name": "steak",
+    "calories": 273.4,
+    "serving_size_g": 100,
+    "fat_total_g": 18.8,
+    "fat_saturated_g": 7.3,
+    "protein_g": 26,
+    "sodium_mg": 52,
+    "potassium_mg": 194,
+    "cholesterol_mg": 95,
+    "carbohydrates_total_g": 0,
+    "fiber_g": 0,
+    "sugar_g": 0
+  }
+]
+
